@@ -1,0 +1,3 @@
+# Module cwc
+# RPC service class, partial path of RPC policy file
+com.ank.cwc.app.client.GreetingService, 5207456BD28162616E011758FDE6D350.gwt.rpc

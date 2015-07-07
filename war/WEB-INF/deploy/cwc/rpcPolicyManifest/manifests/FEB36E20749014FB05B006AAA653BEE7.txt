@@ -1,0 +1,2 @@
+serviceClass: com.ank.cwc.app.client.GreetingService
+path: 5207456BD28162616E011758FDE6D350.gwt.rpc
